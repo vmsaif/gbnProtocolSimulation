@@ -20,7 +20,7 @@ or
     
     python src/originalGBN.py
 
-## What I Learned
+## What I Have Learned
 - The basics of the GBN protocol and how it works.
 - How to simulate the GBN protocol in Python using packet loss and acknowledgement mechanisms.
 - How to plot a chart using the matplotlib library in Python.
@@ -42,7 +42,7 @@ or
 
 ### Original GBN Protocol vs Modified GBN Protocol
 
-![](originalGBNGraph.png)
+![](originalGBNgraph.png)
 
 <br> 
 
