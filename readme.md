@@ -1,4 +1,7 @@
 # GBN Protocol Simulation
+
+[![Hits](https://hits.sh/github.com/vmsaif/gbnProtocolSimulation.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/gbnProtocolSimulation/)
+
 This repository contains Python programs that simulate the Go-Back-N (GBN) protocol.
 
 ## Features
